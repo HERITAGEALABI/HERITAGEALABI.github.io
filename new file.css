@@ -1,0 +1,53 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    float: right;
+    height:  10vh;
+    background-color: beige;
+}
+body{
+    background-color: lavenderblush
+}
+title{
+    colour:red
+}
+li {
+    display: inline;
+    padding: 10px;
+}
+li{
+    display: inline-block;
+    float: right;
+}
+h1{
+    text-align: left;
+    color: black
+    
+}
+h2{
+    text-align:left;
+    colour: red;
+}
+p{
+    text-align: left;
+    color: rgb(255, 0, 149);
+    font-style: normal;
+}
+img{
+    max-width: 400px;
+    max-height: 400px
+}
+.about img{
+    border-radius:0;
+    align-content: left;
+}
+p{
+text-decoration-color: red;
+text
+}
+
+ul li{
+    float: right;
+}
+
+
